@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/quythanh"><img src="https://github.com/quythanh/quythanh/blob/master/devcard.svg" width="400" alt="Quy Thanh's Dev Card"/></a>
+<a href="https://app.daily.dev/quythanh"><img src="https://github.com/quythanh/quythanh/blob/main/devcard.svg" width="400" alt="Quy Thanh's Dev Card"/></a>
 
 <!--
 **quythanh/quythanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
