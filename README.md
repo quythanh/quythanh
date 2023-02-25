@@ -50,6 +50,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="40" height="40"/>
   </a>
 </p>
+
+<h3>My WakaTime Coding Languages:</h3>
+<img src="https://wakatime.com/share/@quythanh/f239afb8-6594-43e2-930a-0df32225c1c9.svg" />
 <!--
 **quythanh/quythanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
