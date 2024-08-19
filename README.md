@@ -21,7 +21,16 @@
 
 💡 I’m always up for a chat about machine learning, web development, or any cool tech trends.
 
- </div>
+<table>
+    <tr>
+        <td valign="top">
+            <img src="https://cdn.prod.website-files.com/62a8969da1ab56329dc8c41e/643cbb16e402d476a4bdea69_643bd1e9297b1a681643319a_6391ab3ab8e94d08c82f0d70_Arch-linux-logo-p-500.png" height="22" width="22" />
+        </td>
+        <td valign="top">I use Arch, btw</td>
+    </tr>
+</table>
+
+</div>
  
 <div align="center"> 
   <a href="mailto:quythanh.dev@icloud.com">
@@ -32,16 +41,16 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,tailwind,bootstrap,mui,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,tailwind,bootstrap,mui,vite,nextjs" />
     <br>
-    <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,firebase" />
+    <img src="https://skillicons.dev/icons?i=py,flask,pytorch,mysql,sqlite,firebase" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,arch,neovim,docker" />
 </div>
 
 <br/>
