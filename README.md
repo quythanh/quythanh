@@ -1,4 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=quythanh.quythanh" />
+<div>
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=quythanh.quythanh" />
+    <img align="right" src="https://img.shields.io/github/followers/quythanh?logo=github&color=0891b2&labelColor=000000" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thành!;" />
