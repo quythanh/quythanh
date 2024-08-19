@@ -1,69 +1,45 @@
-<h1 align="center">Hi 👋, I'm Thành</h1>
-<p align="center">
-  <a href="https://app.daily.dev/quythanh"><img src="https://github.com/quythanh/quythanh/blob/main/devcard.svg" width="400" alt="Quy Thanh's Dev Card"/></a>
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=quythanh.quythanh" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thành!;" />
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/quythanh2205/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="quythanh2205" title="quythanh2205" height="40" width="40" />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/16220648/quy-thanh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16220648" title="16220648 | quy-thanh" height="40" width="40" />
-  </a>
-</p>
+<h3 align="center">A third-year CS student passionate about web development and ML/AI</h3>
 
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="http://www.cplusplus.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" title="c++" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" title="flask" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" title="sqlite" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+ 
+🌐 Currently working with Next.js and Flask to build smart web apps.
 
-<h3>My WakaTime Coding Languages:</h3>
-<img src="https://wakatime.com/share/@quythanh/f239afb8-6594-43e2-930a-0df32225c1c9.svg" />
-<!--
-**quythanh/quythanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently diving into Deep Learning and NLP.
 
-Here are some ideas to get you started:
+🤖 I’m also exploring the intersection of AI and software development, creating intelligent solutions that make life easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I’m always up for a chat about machine learning, web development, or any cool tech trends.
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:quythanh.dev@icloud.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/thanh-tsan-quy-43636b21b/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,tailwind,bootstrap,mui,nextjs" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,firebase" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+</div>
+
+<br/>
+<hr/>
